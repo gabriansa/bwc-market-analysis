@@ -1,0 +1,22 @@
+/.env
+/.venv
+
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Data files
+old_data/
+prompts/
+
+main.py
+scraper.py
+utils.py
+plot.py
+analysis.py
