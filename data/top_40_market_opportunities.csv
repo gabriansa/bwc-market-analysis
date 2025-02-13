@@ -1,0 +1,41 @@
+Occupation,Employment,BWC Familiarity of Occupation,Form Factor,Familiarity_Score,Need_Score,Opportunity_Score
+Registered Nurses,3175390,Moderately Aware,High Need,2,4.0,19052340.0
+Cashiers,3298660,Informed Users,Low Need,3,1.0,13194640.0
+"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",2172500,Newcomers,High Need,1,4.0,10862500.0
+Heavy and Tractor-Trailer Truck Drivers,2044400,Informed Users,Low Need,3,1.0,8177600.0
+Security Guards,1202940,Active Users,Moderate Need,4,2.5,7819110.0
+"Maintenance and Repair Workers, General",1503150,Newcomers,High Need,1,4.0,7515750.0
+First-Line Supervisors of Retail Sales Workers,1087890,Informed Users,Moderate Need,3,2.5,5983395.0
+First-Line Supervisors of Food Preparation and Serving Workers,1176540,Newcomers,High Need,1,4.0,5882700.0
+Light Truck Drivers,1003960,Informed Users,Moderate Need,3,2.5,5521780.0
+First-Line Supervisors of Construction Trades and Extraction Workers,777420,Moderately Aware,High Need,2,4.0,4664520.0
+Receptionists and Information Clerks,1003820,Moderately Aware,Moderate Need,2,2.5,4517190.0
+Police and Sheriff's Patrol Officers,646310,Active Users,Moderate Need,4,2.5,4201015.0
+Industrial Truck and Tractor Operators,778920,Newcomers,High Need,1,4.0,3894600.0
+"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",594330,Moderately Aware,High Need,2,4.0,3565980.0
+"First-Line Supervisors of Mechanics, Installers, and Repairers",589880,Newcomers,High Need,1,4.0,2949400.0
+Compliance Officers,383620,Moderately Aware,High Need,2,4.0,2301720.0
+Operating Engineers and Other Construction Equipment Operators,450370,Newcomers,High Need,1,4.0,2251850.0
+Amusement and Recreation Attendants,361680,Moderately Aware,High Need,2,4.0,2170080.0
+First-Line Supervisors of Production and Operating Workers,671160,Moderately Aware,Low Need,2,1.0,2013480.0
+Correctional Officers and Jailers,351420,Active Users,Low Need,4,1.0,1757100.0
+"Inspectors, Testers, Sorters, Samplers, and Weighers",584630,Moderately Aware,Low Need,2,1.0,1753890.0
+Firefighters,315460,Informed Users,Moderate Need,3,2.5,1735030.0
+"Hotel, Motel, and Resort Desk Clerks",263800,Moderately Aware,Moderate Need,2,2.5,1187100.0
+Counter and Rental Clerks,390300,Moderately Aware,Low Need,2,1.0,1170900.0
+Emergency Medical Technicians,167040,Moderately Aware,High Need,2,4.0,1002240.0
+Driver/Sales Workers,463120,Newcomers,Low Need,1,1.0,926240.0
+First-Line Supervisors of Non-Retail Sales Workers,227150,Informed Users,Low Need,3,1.0,908600.0
+Highway Maintenance Workers,150860,Moderately Aware,High Need,2,4.0,905160.0
+First-Line Supervisors of Police and Detectives,138140,Active Users,Moderate Need,4,2.5,897910.0
+"Claims Adjusters, Examiners, and Investigators",293780,Moderately Aware,Low Need,2,1.0,881340.0
+Nurse Practitioners,280140,Moderately Aware,Low Need,2,1.0,840420.0
+Industrial Machinery Mechanics,412650,Newcomers,Low Need,1,1.0,825300.0
+Construction and Building Inspectors,133640,Moderately Aware,High Need,2,4.0,801840.0
+"Bus Drivers, School",371530,Newcomers,Low Need,1,1.0,743060.0
+"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",123560,Moderately Aware,High Need,2,4.0,741360.0
+Detectives and Criminal Investigators,106730,Active Users,Moderate Need,4,2.5,693745.0
+Paramedics,98770,Informed Users,High Need,3,4.0,691390.0
+Probation Officers and Correctional Treatment Specialists,85870,Informed Users,High Need,3,4.0,601090.0
+Crossing Guards and Flaggers,90780,Active Users,Moderate Need,4,2.5,590070.0
+First-Line Supervisors of Firefighting and Prevention Workers,84120,Informed Users,High Need,3,4.0,588840.0
